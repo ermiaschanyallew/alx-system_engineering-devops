@@ -1,2 +1,1 @@
-#!/bin/bash
-Shell I/O Redirections, Filters
+Create a script that removes all letters c and C from input
